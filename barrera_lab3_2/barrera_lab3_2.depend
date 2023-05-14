@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612060584 source:/Users/AlyanaBarrera/Desktop/Spring2021/CEG2170/barrera_lab3_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
